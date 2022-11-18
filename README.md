@@ -1,22 +1,67 @@
-```
-Name: Life of Game
+# Life of Game
+
 Zero-player game determined by initial state
+
+## Getting Started
+
+Download Life_of_Game.cpp and run this file on Dev C++
+
+### Prerequisites
+
+Download Dev C++ program
+
+https://sourceforge.net/projects/orwelldevcpp/
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
 ```
+Give an example
 ```
-Made by 1203 김명준, 1209 박민재
-October 19th, 2022 ~ November 11st, 2022
+
+### And coding style tests
+
+Explain what these tests test and why
+
 ```
+Give an example
 ```
-강원과학고등학교 1학년 2학기 정보 수행평가
-무단 복제 및 배포 금지
-```
-```
-Username: papa2538
-Github: https://github.com/papa2538
-Solved.ac: https://solved.ac/profile/papa2538
-Codeforces: https://codeforces.com/profile/papa2538
-Atcoder: https://atcoder.jp/users/papa2538
-```
-------------
-### How to use
-Download Life_of_Game.cpp and run this file on Dev C++.
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
