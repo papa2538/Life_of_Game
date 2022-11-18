@@ -18,5 +18,5 @@ Codeforces: https://codeforces.com/profile/papa2538
 Atcoder: https://atcoder.jp/users/papa2538
 ```
 ------------
-## How to use
+### How to use
 Download Life_of_Game.cpp and run this file on Dev C++.
