@@ -1,6 +1,7 @@
+```
 Name: Life of Game
 Zero-player game determined by initial state
-
+```
 Made by 1203 김명준, 1209 박민재
 October 19th, 2022 ~ November 11st, 2022
 
